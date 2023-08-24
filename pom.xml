@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://18.212.1.12:8081/repository/Cloud/</url>
+            <url>http://54.147.228.237:8081/repository/Cloud/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://18.212.1.12:8081/repository/Gen/</url>
+            <url>http://54.147.228.237:8081/repository/Gen/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
